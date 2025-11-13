@@ -66,7 +66,7 @@ Draw keypoints over detected coins using cv2.drawKeypoints.
 
 Display the final output showing detected coins and the total count.
 
-Instructions for Execution
+## Instructions for Execution
 
 Ensure that the required Python libraries are installed:
 
